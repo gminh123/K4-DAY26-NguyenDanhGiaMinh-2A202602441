@@ -1,0 +1,5 @@
+﻿google-genai>=1.0.0
+# MCP SDK v2: dÃ¹ng mcp.server.mcpserver.MCPServer vÃ  streamable_http_client (tráº£ vá» 2 stream)
+mcp[cli]>=2.0.0,<3
+packaging>=23.0
+uvicorn>=0.34.0
